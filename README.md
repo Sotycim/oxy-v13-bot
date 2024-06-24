@@ -1,4 +1,4 @@
-V13 Oxy? Bot
+V13 Algosfx? Bot
 
 Proje Hakkında Bilgi
 Güncelledikçe Buraya Atıcam.
@@ -6,6 +6,6 @@ Projeyi Oxyle Yaptık toplama bot gibi bişey biliyorum bakınca simdi çoğu el
 
 botu paylaşma sebebim bir sürü türeme botçuların altyapımı kullanıp ben botçuyum diye gezmesi üstüne pahalıya bot yapması sonucu bu altyapıyı paylaştım sizlere dilediğiniz gibi kullanabilirsiniz.
 
-Projeye yardım eden asalaklar Fexy ve Oxy
+Projeye yardım eden asalaklar Fexy ve Clenix ve algosfx
 
 Projeyi Yeniliyorum bazıları hata aldığını falan söyledi.
