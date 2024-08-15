@@ -6,6 +6,6 @@ Projeyi Algosfx ile Yaptık toplama bot gibi bişey biliyorum bakınca simdi ço
 
 botu paylaşma sebebim bir sürü türeme botçuların altyapımı kullanıp ben botçuyum diye gezmesi üstüne pahalıya bot yapması sonucu bu altyapıyı paylaştım sizlere dilediğiniz gibi kullanabilirsiniz.
 
-Projeye yardım eden asalaklar Fexy ve Clenix ve Starkisgod
+Projeye yardım eden asalaklar Soty ve Clenix ve Starkisgod
 
 Projeyi Yeniliyorum bazıları hata aldığını falan söyledi.
